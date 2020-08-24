@@ -1,5 +1,5 @@
 # Half-Life Sound Mods
-<img src="https://steamuserimages-a.akamaihd.net/ugc/915791512175639861/CEB3288A7A5701711CD077EDA316F3E0FF18D890/" width="100" height="100"> <img src="https://steamuserimages-a.akamaihd.net/ugc/915791512176023630/3708412A8D6C9CC0F30D00E82C38E12EF19C7483/" width="100" height="100"> <img src="https://steamuserimages-a.akamaihd.net/ugc/915791512176042132/13E5621186DB73378C5550DF28542E15308F3031/" width="100" height="100"> </br>
+<img src="https://steamuserimages-a.akamaihd.net/ugc/915791512175639861/CEB3288A7A5701711CD077EDA316F3E0FF18D890/" width="100" height="100"> <img src="https://steamuserimages-a.akamaihd.net/ugc/915791512176023630/3708412A8D6C9CC0F30D00E82C38E12EF19C7483/" width="100" height="100"> <img src="https://steamuserimages-a.akamaihd.net/ugc/915791512176042132/13E5621186DB73378C5550DF28542E15308F3031/" width="100" height="100"> <img src="https://steamuserimages-a.akamaihd.net/ugc/915792147220477652/DD0A09DC6B64D8A663C1927D55EBF8FF28F94F57/" width="100" height="100"> <img src="https://steamuserimages-a.akamaihd.net/ugc/915792362110763917/42BE94B51E4F680E6B34AEA30C18EB7EF53B9BC4/" width="100" height="100"> </br>
 Here one will find all of Half-Life sound mods made by Geku. The list also includes sound mods from official Half-Life mods: Opposing Force, Blue Shift, Team Fortress Classic and Counter-Strike </br>
 HEV sound mods have been excluded from this list and can be found [here](https://gekusite.github.io/L4D2L002/) instead.
 ## Half-Life- Jungle Drums (Tank Music)
@@ -92,14 +92,15 @@ Music by Chris Jensen
 <img src="https://steamuserimages-a.akamaihd.net/ugc/915791512175639861/CEB3288A7A5701711CD077EDA316F3E0FF18D890/" width="100" height="100">
 
 ### Description
-**Half-Life- HECU Radio Chatter (Zombie Choir)** is a Left 4 Dead 2 sound mod. This mod replaces the 'zombie choir' with chatter of HECU soldiers from Half-Life. The chatter plays when common infected are nearby. Works with both L4D1 and L4D2 campaigns
+**Half-Life- HECU Radio Chatter (Zombie Choir)** is a Left 4 Dead 2 sound mod. This mod replaces the 'zombie choir' with chatter of HECU soldiers from Half-Life. The chatter plays when common infected are nearby. Works with both L4D1 and L4D2 campaigns.
 
 ### Credits
 Voice from the video games Half-Life (1998) and Half-Life: Blue Shift (2001), by Sierra & Valve </br>
 Voice by Michael Shapiro and Harry S. Robins
 ### Download
 
- **Steam:** [Half-Life- HECU Radio Chatter (Zombie Choir)](https://steamcommunity.com/sharedfiles/filedetails/?id=1314216607)
+ **Steam:** [Half-Life- HECU Radio Chatter (Zombie Choir)](https://steamcommunity.com/sharedfiles/filedetails/?id=1314216607) (Low Quality)
+ **Steam:** [Half-Life- HECU Radio Chatter HQ (Zombie Choir)](https://steamcommunity.com/sharedfiles/filedetails/?id=1320240194) (High Quality)
  
  ## Counter-Strike- Enemy Down (Special Infected Death Sound)
 
@@ -114,5 +115,20 @@ Voice by Jess Cliffe
 ### Download
 
  **Steam:** [Counter-Strike- Enemy Down (Special Infected Death Sound)](https://steamcommunity.com/sharedfiles/filedetails/?id=1317187436)
+ 
+  ## Team Fortress- CTF music (Saferoom Music)
+
+<img src="https://steamuserimages-a.akamaihd.net/ugc/915792362110763917/42BE94B51E4F680E6B34AEA30C18EB7EF53B9BC4/" width="100" height="100">
+
+### Description
+**Team Fortress- CTF music (Saferoom Music)** is a Left 4 Dead 2 sound mod. 'Capture the flag' theme will play when you successfully reach the saferoom. This mod only works with L4D2 campaigns.
+
+### Credits
+Music and voice from the video game Team Fortress Classic (1999), by Sierra & Valve
+### Download
+
+ **Steam:** [Team Fortress- CTF music (Saferoom Music)](https://steamcommunity.com/sharedfiles/filedetails/?id=1320139119)
+ 
+ 
  
  
