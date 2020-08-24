@@ -87,7 +87,7 @@ Music by Chris Jensen
 
  **Steam:** [Half-Life: Blue Shift- Maze (Tank Music)](https://steamcommunity.com/sharedfiles/filedetails/?id=1311786806)
  
- ## Half-Life- HECU Radio Chatter (Zombie Choir)
+## Half-Life- HECU Radio Chatter (Zombie Choir)
 
 <img src="https://steamuserimages-a.akamaihd.net/ugc/915791512175639861/CEB3288A7A5701711CD077EDA316F3E0FF18D890/" width="100" height="100">
 
@@ -102,7 +102,7 @@ Voice by Michael Shapiro and Harry S. Robins
  **Steam:** [Half-Life- HECU Radio Chatter (Zombie Choir)](https://steamcommunity.com/sharedfiles/filedetails/?id=1314216607) (Low Quality)
  **Steam:** [Half-Life- HECU Radio Chatter HQ (Zombie Choir)](https://steamcommunity.com/sharedfiles/filedetails/?id=1320240194) (High Quality)
  
- ## Counter-Strike- Enemy Down (Special Infected Death Sound)
+## Counter-Strike- Enemy Down (Special Infected Death Sound)
 
 <img src="https://steamuserimages-a.akamaihd.net/ugc/915792147220477652/DD0A09DC6B64D8A663C1927D55EBF8FF28F94F57/" width="100" height="100">
 
@@ -116,7 +116,7 @@ Voice by Jess Cliffe
 
  **Steam:** [Counter-Strike- Enemy Down (Special Infected Death Sound)](https://steamcommunity.com/sharedfiles/filedetails/?id=1317187436)
  
-  ## Team Fortress- CTF music (Saferoom Music)
+## Team Fortress- CTF music (Saferoom Music)
 
 <img src="https://steamuserimages-a.akamaihd.net/ugc/915792362110763917/42BE94B51E4F680E6B34AEA30C18EB7EF53B9BC4/" width="100" height="100">
 
