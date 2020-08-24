@@ -1,7 +1,7 @@
 # Half-Life Sound Mods
 <img src="https://steamuserimages-a.akamaihd.net/ugc/915791512175639861/CEB3288A7A5701711CD077EDA316F3E0FF18D890/" width="100" height="100"> <img src="https://steamuserimages-a.akamaihd.net/ugc/915791512176023630/3708412A8D6C9CC0F30D00E82C38E12EF19C7483/" width="100" height="100"> <img src="https://steamuserimages-a.akamaihd.net/ugc/915791512176042132/13E5621186DB73378C5550DF28542E15308F3031/" width="100" height="100"> </br>
 Here one will find all of Half-Life sound mods made by Geku. </br>
-HEV sound mods have been excluded from this list and can be found [here](https://steamcommunity.com/sharedfiles/filedetails/?id=1310904941) instead.
+HEV sound mods have been excluded from this list and can be found [here](https://gekusite.github.io/L4D2L002/) instead.
 ## Half-Life- Jungle Drums (Tank Music)
 
 <img src="https://steamuserimages-a.akamaihd.net/ugc/915791512175639861/CEB3288A7A5701711CD077EDA316F3E0FF18D890/" width="100" height="100">
