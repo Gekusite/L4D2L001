@@ -100,7 +100,7 @@ Voice by Michael Shapiro and Harry S. Robins
 ### Download
 
  **Steam:** [Half-Life- HECU Radio Chatter (Zombie Choir)](https://steamcommunity.com/sharedfiles/filedetails/?id=1314216607) (Low Quality) <br/>
- **Steam:** [Half-Life- HECU Radio Chatter HQ (Zombie Choir)](https://steamcommunity.com/sharedfiles/filedetails/?id=1320240194) (High Quality)
+            [Half-Life- HECU Radio Chatter HQ (Zombie Choir)](https://steamcommunity.com/sharedfiles/filedetails/?id=1320240194) (High Quality)
  
 ## Counter-Strike- Enemy Down (Special Infected Death Sound)
 
